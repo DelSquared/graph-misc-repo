@@ -1,7 +1,7 @@
 import numpy as np
 import math as m
 from matplotlib import pyplot as plt
-
+#THIS SCRIPT IS STILL, FOR ALL INTENTS AND PURPOSES, UNDER CONSTRUCTION
 N=50
 
 def S(i, j):
