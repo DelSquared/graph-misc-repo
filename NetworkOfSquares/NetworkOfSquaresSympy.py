@@ -3,6 +3,8 @@ import sympy as sp
 import math as m
 
 
+#THIS SCRIPT IS STILL, FOR ALL INTENTS AND PURPOSES, UNDER CONSTRUCTION
+
 def S(i, j):
     if (m.sqrt(i + j + 2) == m.floor(m.sqrt(i + j + 2))) and i!=j:
         return 1
