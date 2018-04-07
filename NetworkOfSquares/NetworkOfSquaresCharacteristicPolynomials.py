@@ -2,7 +2,7 @@ import numpy as np
 import sympy as sp
 import math as m
 
-#NOTE: This code is very computationally intensive due to the symbollic nature of the code. Remember to tweak the
+#Note: This code is very computationally intensive due to the symbollic nature of the code. Remember to tweak the
 #start and stop parameters to your liking.
 
 start, stop = 1, 50 #search range
