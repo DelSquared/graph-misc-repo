@@ -1,6 +1,14 @@
 # Graph Miscellaneous Repository
 A miscellaneous repository for anything having to do with computation in the context of Graph Theory
 
+#### Content:
+- [1) Network of Squares](https://github.com/DelSquared/graph-misc-repo#1-network-of-squares)
+  - [The characteristic polynomials](https://github.com/DelSquared/graph-misc-repo#the-characteristic-polynomials)
+  - [The Edge, MinAvgMax-Degree countings](https://github.com/DelSquared/graph-misc-repo#the-edge-minavgmax-degree-countings)
+  - [The Graph "Entropy"](https://github.com/DelSquared/graph-misc-repo#the-graph-entropy)
+  - [Further Readings](https://github.com/DelSquared/graph-misc-repo#further-readings)
+- [2) More Sections Coming Soon](https://github.com/DelSquared/graph-misc-repo#2-more-sections-coming-soon)
+
 ## 1) Network of Squares
 This section deals with the problem discussed my Matt Parker [here](https://www.youtube.com/watch?v=G1m7goLCJDY), [here](https://www.youtube.com/watch?v=7_ph5djCCnM) and in his book "Things to Make and Do in the Fourth Dimension" with regards to his conjecture: *That all consecutive integer sequences that exceed 25 can be rearranged such that the adjacent numbers sum to a square number, as well as 15, 16, 17, 23.* One natural way to tackle this is using Hamiltonian paths on graphs like Parker did. A brute force search up to 299 was carried out by Charlie Turner and the code can be found [here](https://github.com/charlieturner/square-sum-sequences) where the conjecture was found to hold.
 
